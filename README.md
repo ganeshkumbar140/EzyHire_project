@@ -1,0 +1,1 @@
+Performed manual testing on a job portal website facilitating connections between job seekers and employers. Tested key functionalities including profile creation, resume upload, and job search filters across industries and locations to ensure smooth, accurate, and user-friendly operations.
